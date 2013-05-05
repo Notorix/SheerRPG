@@ -1,0 +1,8 @@
+name: SheerRPG
+author: EatenAlive3
+version: 0.00001
+main: com.eatenalive3.sheerrpg.main.SheerRPG
+description: Adds levels, custom health, custom items, and much more!
+depend: [WorldEdit, WorldGuard]
+commands:
+  test:
